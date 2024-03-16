@@ -1,5 +1,86 @@
 :root {
+    /* Visit Sindhupalchowk Colors */
+
+    /* Primary Colors */
+    --raat-100: #160A29;
+    --raat-200: #260E4E;
+    --raat-300: #2F0C6A;
+    --raat-400: #380788;
+    --raat-500: #4101A9;
+    --raat-600: #4E01CB;
+    --raat-700: #8134FE;
+    --raat-800: #A067FE;
+    --raat-900: #DFCCFF;
+
+    --suntala-100: #522714;
+    --suntala-200: #823717;
+    --suntala-300: #B84514;
+    --suntala-400: #F2510D;
+    --suntala-500: #FF7135;
+    --suntala-600: #FF9366;
+    --suntala-700: #FFB799;
+    --suntala-800: #FFDBCC;
+    --suntala-900: #FFEDE5;
+
+    /* Secondary Colors */
+    --kaagati-100: #3D3814;
+    --kaagati-200: #9C8D1C;
+    --kaagati-300: #D3BD17;
+    --kaagati-400: #F4DC2A;
+    --kaagati-500: #FFEB52;
+    --kaagati-600: #FFEF75;
+    --kaagati-700: #FFF399;
+    --kaagati-800: #FFF7BD;
+    --kaagati-900: #FFFBDB;
+
+    --laligurans-100: #491313;
+    --laligurans-200: #781717;
+    --laligurans-300: #B81414;
+    --laligurans-400: #F20D0D;
     --laligurans-500: #FF3131;
-    --suntala-500:#FF7135;
+    --laligurans-600: #FF6666;
+    --laligurans-700: #FF8A8A;
+    --laligurans-800: #FFBDBD;
+    --laligurans-900: #FFD6D6;
+
+    /* General Colors */
+    --sunkoshi-100: #0A2029;
+    --sunkoshi-200: #0B3141;
+    --sunkoshi-300: #0D5473;
+    --sunkoshi-400: #0872A0;
+    --sunkoshi-500: #008DCB;
+    --sunkoshi-600: #00B1FF;
+    --sunkoshi-700: #33C1FF;
+    --sunkoshi-800: #99E0FF;
+    --sunkoshi-900: #D1F1FF;
+
+    --aakash-100: #121C19;
+    --aakash-200: #213F35;
+    --aakash-300: #2C6853;
+    --aakash-400: #319672;
+    --aakash-500: #31C992;
+    --aakash-600: #4CE1AB;
+    --aakash-700: #8DF7D1;
+    --aakash-800: #C8FFEB;
+    --aakash-900: #E5FFF6;
+
+    --pudina-100: #101E12;
+    --pudina-200: #204025;
+    --pudina-300: #265F2E;
+    --pudina-400: #2B8C3A;
     --pudina-500: #27AB3B;
+    --pudina-600: #27DD42;
+    --pudina-700: #4DEA65;
+    --pudina-800: #71F485;
+    --pudina-900: #D2FED9;
+
+    --khairo-100: #000000;
+    --khairo-200: #222222;
+    --khairo-300: #444444;
+    --khairo-400: #666666;
+    --khairo-500: #888888;
+    --khairo-600: #BBBBBB;
+    --khairo-700: #DDDDDD;
+    --khairo-800: #F3F6FB;
+    --khairo-900: #FFFFFF;
 }

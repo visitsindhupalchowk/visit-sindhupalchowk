@@ -7,11 +7,6 @@ body {
     font-family: "Raleway", sans-serif;
 }
 
-/* .watermark-bg {
-    background-image: url('/assets/img/watermark.png');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-} */
 
 h1 {
     color: var(--laligurans-500);
