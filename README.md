@@ -53,10 +53,6 @@ For inquiries or assistance regarding the Visit Sindhupalchowk website, please c
 - Email: [visitsindhupalchowk@gmail.com](mailto:visitsindhupalchowk@gmail.com)
 
 
-## License
-
-This repository and its contents are licensed under [MIT License](LICENSE).
-
 ```
 
 This documentation provides an overview of the repository structure, maintenance procedures, contribution guidelines, contact information, and licensing details for managing the Visit Sindhupalchowk website. Adjust the placeholders with relevant information as needed.

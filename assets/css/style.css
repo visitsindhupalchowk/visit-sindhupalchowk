@@ -1,28 +1,36 @@
 @import url("./variables.css");
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
 
 
 body {
     font-family: "Raleway", sans-serif;
 }
 
-h1{
+/* .watermark-bg {
+    background-image: url('/assets/img/watermark.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} */
+
+h1 {
     color: var(--laligurans-500);
     font-weight: bold;
 }
 
-h5{
+h5 {
     color: var(--suntala-500);
     font-weight: bold;
 
 }
 
-h4{
+h4 {
     color: var(--pudina-500);
     font-weight: bold;
 }
 
 
 /* utility */
-.text-laligurans{
+.text-laligurans {
     color: var(--laligurans-500);
 }
