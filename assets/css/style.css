@@ -9,23 +9,24 @@ body {
 
 
 h1 {
-    color: var(--laligurans-500);
+    color: var(--danger-400);
     font-weight: bold;
 }
 
 h5 {
-    color: var(--suntala-500);
+    color: var(--secondary-700);
     font-weight: bold;
 
 }
 
 h4 {
-    color: var(--pudina-500);
+    color: var(--accent-800);
     font-weight: bold;
 }
 
 
 /* utility */
 .text-laligurans {
-    color: var(--laligurans-500);
+    color: var(--danger-400);
 }
+
