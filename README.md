@@ -1,7 +1,5 @@
-### Hi there 👋
-
-```markdown
-# Visit Sindhupalchowk Website Documentation
+## Hi there 👋
+## Visit Sindhupalchowk Website Documentation
 
 This repository is dedicated to maintaining the website for Visit Sindhupalchowk, a platform aimed at showcasing, championing, and empowering the breathtaking region of Sindhupalchowk, Nepal. The website serves as a guide for travelers, providing information about the region's natural beauty, cultural richness, and sustainable development initiatives.
 
@@ -14,26 +12,26 @@ The purpose of this documentation is to outline the structure, components, and m
 The repository is organized as follows:
 
 - `index.html`: The main HTML file serving as the landing page for the website.
-- `static/`: Directory containing static assets such as CSS, JavaScript, and images.
+- `assets/`: Directory containing static assets such as CSS, JavaScript, and images.
   - `css/`: CSS stylesheets for styling the website.
   - `js/`: JavaScript files for enhancing interactivity.
-  - `images/`: Image assets used throughout the website.
-- `other-pages/`: Directory for additional HTML pages related to the website.
+  - `img/`: Image assets used throughout the website.
+- `pages/`: Directory for additional HTML pages related to the website.
 - `favicon.ico`: Favicon icon for the website.
 - `README.md`: Documentation outlining the purpose and structure of the repository.
 
 ## Maintenance Procedures
 
-### Updating Content
-- Modify HTML files (`index.html`, `other-pages/*.html`) to update website content.
-- Update CSS files (`static/css/style.css`) to apply styling changes.
-- Implement JavaScript enhancements in `static/js/script.js` if necessary.
+#### Updating Content
+- Modify HTML files (`index.html`, `pages/*.html`) to update website content.
+- Update CSS files (`assets/css/style.css`) to apply styling changes.
+- Implement JavaScript enhancements in `assets/js/script.js` if necessary.
 
-### Adding Resources
-- Add new images to the `static/images/` directory.
-- Include additional HTML pages in the `other-pages/` directory as needed.
+#### Adding Resources
+- Add new images to the `assets/img/` directory.
+- Include additional HTML pages in the `pages/` directory as needed.
 
-### Technical Support
+#### Technical Support
 - Address technical issues or bugs reported by users.
 - Enhance website performance and accessibility.
 - Ensure cross-browser compatibility and responsiveness.
@@ -52,7 +50,5 @@ For inquiries or assistance regarding the Visit Sindhupalchowk website, please c
 - Email: [contact@visitsindhupalchowk.com.np](mailto:contact@visitsindhupalchowk.com.np)
 - Email: [visitsindhupalchowk@gmail.com](mailto:visitsindhupalchowk@gmail.com)
 
-
-```
 
 This documentation provides an overview of the repository structure, maintenance procedures, contribution guidelines, contact information, and licensing details for managing the Visit Sindhupalchowk website. Adjust the placeholders with relevant information as needed.
