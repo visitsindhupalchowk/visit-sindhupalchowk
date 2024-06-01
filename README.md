@@ -11,16 +11,25 @@ The purpose of this documentation is to outline the structure, components, and m
 
 The repository is organized as follows:
 
-- `.github`: Configuration files and workflows for GitHub Actions
+- `.github`: Configuration files and workflows for GitHub Actions.
+  - `ISSUE_TEMPLATE`: Issue templates for various types of issues.
+    - `bug-report.yaml`: Template for reporting bugs.
+    - `config.yaml`: Configuration for creating issue templates.
+    - `custom-issue.yaml`: Template for creating custom issues.
+    - `docs.yaml`: Template for documentation-related issues.
+    -  `feature-request.yaml`: Template for requesting new features.
   - `workflow`: YAML files defining actions for continuous integration and deployment.
     - `static/yml`: Automates the deployment to GitHub Pages on every push to the main branch.
+  - `PULL_REQUEST_TEMPLATE.md`: 
 - `index.html`: The main HTML file serving as the landing page for the website.
 - `assets/`: Directory containing static assets such as CSS, JavaScript, and images.
   - `css/`: CSS stylesheets for styling the website.
   - `js/`: JavaScript files for enhancing interactivity.
   - `img/`: Image assets used throughout the website.
 - `pages/`: Directory for additional HTML pages related to the website.
-- `favicon.ico`: Favicon icon for the website.
+- `CNAME`: Custom domain configuration.
+- `CONTRIBUTING.md`: Projects guidelines for contributing.
+- `LICENSE`: License information.
 - `README.md`: Documentation outlining the purpose and structure of the repository.
 
 ## Maintenance Procedures
