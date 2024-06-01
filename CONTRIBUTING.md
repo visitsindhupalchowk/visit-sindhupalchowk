@@ -26,22 +26,9 @@ Once the proposed change has been adequately discussed and approved, you can pro
 
 1. Fork the repository to your GitHub account.
 2. Clone your forked repository to your local machine.
-3. [Create a virtual environment for the project](https://docs.python.org/3/library/venv.html)
-4. Install dependencies using 
-    ```bash
-    pip install -r requirements.txt
-    ```
-5. Install pre-commit hook using 
-    ```bash
-    pre-commit install
-    ```
-6. Create a new branch for your changes:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-7. Make your changes locally, following any relevant coding standards and conventions.
-8. Test your changes to ensure they work as expected.
-9. Commit your changes with a descriptive commit message:
+3. Make your changes locally, following any relevant coding standards and conventions.
+4. Test your changes to ensure they work as expected.
+5. Commit your changes with a descriptive commit message:
     ```bash
     git commit -m "Add your descriptive commit message"
     ```
