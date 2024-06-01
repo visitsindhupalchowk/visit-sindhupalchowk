@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## Visit Sindhupalchowk Website Documentation
 
-This repository is dedicated to maintaining the website for Visit Sindhupalchowk, a platform aimed at showcasing, championing, and empowering the breathtaking region of Sindhupalchowk, Nepal. The website serves as a guide for travelers, providing information about the region's natural beauty, cultural richness, and sustainable development initiatives.
+This repository is dedicated to maintaining the static website for Visit Sindhupalchowk, a platform aimed at showcasing, championing, and empowering the breathtaking region of Sindhupalchowk, Nepal. The website serves as a guide for travelers, providing information about the region's natural beauty, cultural richness, and sustainable development initiatives.
 
 ## Purpose
 
@@ -11,6 +11,9 @@ The purpose of this documentation is to outline the structure, components, and m
 
 The repository is organized as follows:
 
+- `.github`: Configuration files and workflows for GitHub Actions
+  - `workflow`: YAML files defining actions for continuous integration and deployment.
+    - `static/yml`: Automates the deployment to GitHub Pages on every push to the main branch.
 - `index.html`: The main HTML file serving as the landing page for the website.
 - `assets/`: Directory containing static assets such as CSS, JavaScript, and images.
   - `css/`: CSS stylesheets for styling the website.
@@ -38,10 +41,9 @@ The repository is organized as follows:
 
 ## Contribution Guidelines
 
-Contributions to the Visit Sindhupalchowk website are welcome. To contribute:
-1. Fork the repository and create a new branch.
-2. Make changes or additions.
-3. Submit a pull request with a descriptive title and explanation of changes.
+## How To Contribute?
+
+For contribution, please refer to our [Contribution Guidelines](CONTRIBUTING.md)
 
 ## Contact Information
 
