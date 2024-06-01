@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## Visit Sindhupalchowk Website Documentation
 
-This repository is dedicated to maintaining the website for Visit Sindhupalchowk, a platform aimed at showcasing, championing, and empowering the breathtaking region of Sindhupalchowk, Nepal. The website serves as a guide for travelers, providing information about the region's natural beauty, cultural richness, and sustainable development initiatives.
+This repository is dedicated to maintaining the static website for Visit Sindhupalchowk, a platform aimed at showcasing, championing, and empowering the breathtaking region of Sindhupalchowk, Nepal. The website serves as a guide for travelers, providing information about the region's natural beauty, cultural richness, and sustainable development initiatives.
 
 ## Purpose
 
@@ -11,13 +11,25 @@ The purpose of this documentation is to outline the structure, components, and m
 
 The repository is organized as follows:
 
+- `.github`: Configuration files and workflows for GitHub Actions.
+  - `ISSUE_TEMPLATE`: Issue templates for various types of issues.
+    - `bug-report.yaml`: Template for reporting bugs.
+    - `config.yaml`: Configuration for creating issue templates.
+    - `custom-issue.yaml`: Template for creating custom issues.
+    - `docs.yaml`: Template for documentation-related issues.
+    -  `feature-request.yaml`: Template for requesting new features.
+  - `workflow`: YAML files defining actions for continuous integration and deployment.
+    - `static/yml`: Automates the deployment to GitHub Pages on every push to the main branch.
+  - `PULL_REQUEST_TEMPLATE.md`: 
 - `index.html`: The main HTML file serving as the landing page for the website.
 - `assets/`: Directory containing static assets such as CSS, JavaScript, and images.
   - `css/`: CSS stylesheets for styling the website.
   - `js/`: JavaScript files for enhancing interactivity.
   - `img/`: Image assets used throughout the website.
 - `pages/`: Directory for additional HTML pages related to the website.
-- `favicon.ico`: Favicon icon for the website.
+- `CNAME`: Custom domain configuration.
+- `CONTRIBUTING.md`: Projects guidelines for contributing.
+- `LICENSE`: License information.
 - `README.md`: Documentation outlining the purpose and structure of the repository.
 
 ## Maintenance Procedures
@@ -38,10 +50,9 @@ The repository is organized as follows:
 
 ## Contribution Guidelines
 
-Contributions to the Visit Sindhupalchowk website are welcome. To contribute:
-1. Fork the repository and create a new branch.
-2. Make changes or additions.
-3. Submit a pull request with a descriptive title and explanation of changes.
+## How To Contribute?
+
+For contribution, please refer to our [Contribution Guidelines](CONTRIBUTING.md)
 
 ## Contact Information
 
