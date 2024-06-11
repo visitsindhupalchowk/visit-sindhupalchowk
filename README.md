@@ -18,8 +18,6 @@ The repository is organized as follows:
     - `custom-issue.yaml`: Template for creating custom issues.
     - `docs.yaml`: Template for documentation-related issues.
     -  `feature-request.yaml`: Template for requesting new features.
-  - `workflow`: YAML files defining actions for continuous integration and deployment.
-    - `static/yml`: Automates the deployment to GitHub Pages on every push to the main branch.
   - `PULL_REQUEST_TEMPLATE.md`: 
 - `index.html`: The main HTML file serving as the landing page for the website.
 - `assets/`: Directory containing static assets such as CSS, JavaScript, and images.
