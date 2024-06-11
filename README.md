@@ -18,7 +18,7 @@ The repository is organized as follows:
     - `custom-issue.yaml`: Template for creating custom issues.
     - `docs.yaml`: Template for documentation-related issues.
     -  `feature-request.yaml`: Template for requesting new features.
-  - `PULL_REQUEST_TEMPLATE.md`: 
+  - `PULL_REQUEST_TEMPLATE.md`: Template for making pull request.
 - `index.html`: The main HTML file serving as the landing page for the website.
 - `assets/`: Directory containing static assets such as CSS, JavaScript, and images.
   - `css/`: CSS stylesheets for styling the website.
